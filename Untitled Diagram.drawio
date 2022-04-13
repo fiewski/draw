@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T14:09:38.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39" etag="Qd3LGVGWDiMyMLlT0sro" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T17:06:09.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39" etag="ssnbKmita3lFZFhFTif3" version="17.4.3" type="github">
   <diagram id="cjIfti4ttq64oj84X-Ma" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,12 @@
         </mxCell>
         <mxCell id="ABXT4_ojw7Id-GURmyzU-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ABXT4_ojw7Id-GURmyzU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ABXT4_ojw7Id-GURmyzU-8" target="DW389mNN4FiU-5Pm1X-7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ABXT4_ojw7Id-GURmyzU-8" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
